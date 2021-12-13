@@ -12,4 +12,5 @@ yarn run dev
 yarn
 yarn run build
 yarn run preview
+#then close the dialog and check the console output
 ```
