@@ -7,7 +7,7 @@ yarn run dev
 ```
 
 
-#eror
+#error
 ```
 yarn
 yarn run build
